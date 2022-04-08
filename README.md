@@ -2,4 +2,4 @@
 
 aprendiendo mas sobre css
 
-https://xein-dev.github.io/Tarjeta_presentacion/
+https://Suarez-dev.github.io/Tarjeta_presentacion/
